@@ -1,5 +1,5 @@
 # bookingapp
-App that provides a couple of endpoints to booking a campsite.  JPA, Spring Boot, Maven, Sprinf IoC
+App that provides a couple of endpoints to book a campsite.  JPA, Spring Boot, Maven, Sprinf IoC
 
 Things to take into account:
 
